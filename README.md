@@ -11,21 +11,25 @@
 
 ## Group Topic
 
-- to be determined
-
-## DataFrame and Columns
-
-- to be determined
+- Our group would like to study AirBnB Listings in Toronto pre and post COVID (Jan and Feb 2020 to Jan and Feb 2021)
+    - [Link](http://insideairbnb.com/get-the-data.html)
+- [Apparently AirBnB is making a come back](https://www.forbes.com/sites/deniselyohn/2020/11/10/how-airbnb-survived-the-pandemic--and-how-you-can-too/?sh=87544a293845) and our group would like to see this in the city of Toronto and Waterloo
 
 ## Type of Analysis
 
-- to be determined
+- We will leverage Databricks Community Edition and load in the data as .csv files
+    - [link](https://community.cloud.databricks.com)
+- We will leverage Koalas, a Pandas API for PySpark for DataFrame manipulations instead of PySpark
+    - [link](https://koalas.readthedocs.io/en/latest/index.html)
+- We will leverage MLlib for machine learning
+    - [link](https://spark.apache.org/docs/latest/api/python/reference/pyspark.ml.html)
+- We will connect Azure Databricks instance to Power BI Desktop to generate visuals for data analysis
+    - [link](https://docs.microsoft.com/en-us/azure/databricks/integrations/bi/power-bi) and [link](https://docs.databricks.com/integrations/bi/power-bi.html)
 
 ## Project Objectives
 
 - 1. Research and report on a current evolving area of Big Data technology.
-- 2. Build a small but scalable application of your own.
-- 3. Conduct a thorough data analysis using a toolset you haven't worked with before.
+- 2. Conduct a thorough data analysis using a toolset you haven't worked with before.
 
 ## Project Outline for Data Analysis
 
@@ -33,9 +37,3 @@
 - 2. Data Preparation: What was your data source (e.g., web scraping, corporate data, a standard machine learning data set, open data, etc.)? How good was the data quality? What did you need to do to procure it? What tools or code did you need to use to prepare it for analysis? What challenges did you face?
 - 3. Analysis: What trends, correlations, and/or patterns do you see in the data?
 - 4. Conclusions: What did you learn about your data set?
-
-## Project Outline for Custom Project
-
-- 1. Objectives
-- 2. Analysis
-- 3. Conclusions
