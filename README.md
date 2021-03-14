@@ -13,7 +13,7 @@
 
 - Our group would like to study AirBnB Listings in Toronto pre and post COVID (Jan and Feb 2020 to Jan and Feb 2021)
     - [Link](http://insideairbnb.com/get-the-data.html)
-- [Apparently AirBnB is making a come back](https://www.forbes.com/sites/deniselyohn/2020/11/10/how-airbnb-survived-the-pandemic--and-how-you-can-too/?sh=87544a293845) and our group would like to see this in the city of Toronto and Waterloo
+- [Apparently AirBnB is making a come back](https://www.forbes.com/sites/deniselyohn/2020/11/10/how-airbnb-survived-the-pandemic--and-how-you-can-too/?sh=87544a293845) and our group would like to see if this is true in the city of Toronto through their listings
 
 ## Type of Analysis
 
