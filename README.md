@@ -37,3 +37,8 @@
 - 2. Data Preparation: What was your data source (e.g., web scraping, corporate data, a standard machine learning data set, open data, etc.)? How good was the data quality? What did you need to do to procure it? What tools or code did you need to use to prepare it for analysis? What challenges did you face?
 - 3. Analysis: What trends, correlations, and/or patterns do you see in the data?
 - 4. Conclusions: What did you learn about your data set?
+
+## Links to DataBricks Notebooks
+
+- 1. [Initial Data Loading](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2514828024743454/4473477877994595/4138564470759536/latest.html)
+- 2. To be done
