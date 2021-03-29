@@ -38,7 +38,8 @@
 - 3. Analysis: What trends, correlations, and/or patterns do you see in the data?
 - 4. Conclusions: What did you learn about your data set?
 
-## Links to DataBricks Notebooks
+## Links to DataBricks Notebooks (all need to be executed on the same cluster)
 
 - 1. [Initial Data Loading](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2514828024743454/4473477877994595/4138564470759536/latest.html)
-- 2. To be done
+- 2. [Clean the Data](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2514828024743454/1148597687871553/4138564470759536/latest.html)
+- 3. [Preliminary Data Analysis](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2514828024743454/1148597687871594/4138564470759536/latest.html)
