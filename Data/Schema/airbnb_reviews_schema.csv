@@ -1,0 +1,8 @@
+Name,Position,TypeName,Kind,IsNullable,NumericPrecisionBase,NumericPrecision,NumericScale,DateTimePrecision,MaxLength,IsVariableLength,NativeTypeName,NativeDefaultExpression,NativeExpression,Description,IsWritable
+"Year",0,"Int32.Type","number",True,10,10,0,,,,"INT","","","",
+"listing_id",1,"Int64.Type","number",True,10,19,0,,,,"BIGINT","","","",
+"id",2,"Int64.Type","number",True,10,19,0,,,,"BIGINT","","","",
+"date",3,"Date.Type","date",True,,,,,,,"","","","",
+"reviewer_id",4,"Int64.Type","number",True,10,19,0,,,,"BIGINT","","","",
+"reviewer_name",5,"Text.Type","text",True,,,,,65536,True,"STRING","","","",
+"comments",6,"Text.Type","text",True,,,,,65536,True,"STRING","","","",

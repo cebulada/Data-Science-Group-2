@@ -1,0 +1,3 @@
+Name,Position,TypeName,Kind,IsNullable,NumericPrecisionBase,NumericPrecision,NumericScale,DateTimePrecision,MaxLength,IsVariableLength,NativeTypeName,NativeDefaultExpression,NativeExpression,Description,IsWritable
+"neighbourhood_group",0,"Double.Type","number",True,2,53,,,,,"DOUBLE","","","",
+"neighbourhood",1,"Text.Type","text",True,,,,,65536,True,"STRING","","","",

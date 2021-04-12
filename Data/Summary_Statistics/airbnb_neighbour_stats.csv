@@ -1,0 +1,3 @@
+Column,Min,Max,Average,StandardDeviation,Count,NullCount,DistinctCount
+"neighbourhood","Agincourt North","Yorkdale-Glen Park","",,140,"0","140"
+"neighbourhood_group","","","",,140,"140","1"

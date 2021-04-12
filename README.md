@@ -43,3 +43,5 @@
 - 1. [Initial Data Loading](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2514828024743454/4473477877994595/4138564470759536/latest.html)
 - 2. [Clean the Data](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2514828024743454/1148597687871553/4138564470759536/latest.html)
 - 3. [Preliminary Data Analysis](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2514828024743454/1148597687871594/4138564470759536/latest.html)
+- 4. [Data Visualization](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2492692934235656/576067449046085/1930296091766500/latest.html)
+- 5. [Machine Learning](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2492692934235656/3846416337159354/1930296091766500/latest.html)
